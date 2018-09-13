@@ -1,0 +1,6 @@
+C:\Users\hafiz\source\repos\ShoppingContract\bin\Debug\ShoppingContract.dll
+C:\Users\hafiz\source\repos\ShoppingContract\bin\Debug\ShoppingContract.pdb
+C:\Users\hafiz\source\repos\ShoppingContract\obj\Debug\ShoppingContract.csprojAssemblyReference.cache
+C:\Users\hafiz\source\repos\ShoppingContract\obj\Debug\ShoppingContract.csproj.CoreCompileInputs.cache
+C:\Users\hafiz\source\repos\ShoppingContract\obj\Debug\ShoppingContract.dll
+C:\Users\hafiz\source\repos\ShoppingContract\obj\Debug\ShoppingContract.pdb

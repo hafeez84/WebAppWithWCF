@@ -1,0 +1,298 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "jQuery/3.3.1": {
+        "type": "package"
+      },
+      "ShoppingContract/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        }
+      },
+      "ShoppingData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "EntityFramework": "6.2.0",
+          "ShoppingContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingData.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "jQuery/3.3.1": {
+        "type": "package"
+      },
+      "ShoppingContract/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        }
+      },
+      "ShoppingData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "EntityFramework": "6.2.0",
+          "ShoppingContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingData.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "jQuery/3.3.1": {
+        "type": "package"
+      },
+      "ShoppingContract/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        }
+      },
+      "ShoppingData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "EntityFramework": "6.2.0",
+          "ShoppingContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingData.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "jQuery/3.3.1": {
+        "type": "package"
+      },
+      "ShoppingContract/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingContract.dll": {}
+        }
+      },
+      "ShoppingData/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "dependencies": {
+          "EntityFramework": "6.2.0",
+          "ShoppingContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityFramework/6.2.0": {
+      "sha512": "ptGyXOf26qLrtn+2doAmylIlCxOnBJANwlyyLrXDmqIk9O18IzLWHyxDwwAyhgXkxmbiaA0WNpRy67WRReInBw==",
+      "type": "package",
+      "path": "entityframework/6.2.0",
+      "files": [
+        "content/net40/App.config.transform",
+        "content/net40/Web.config.transform",
+        "entityframework.6.2.0.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.SqlServer.dll",
+        "lib/net40/EntityFramework.SqlServer.xml",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "lib/net45/EntityFramework.SqlServer.dll",
+        "lib/net45/EntityFramework.SqlServer.xml",
+        "lib/net45/EntityFramework.dll",
+        "lib/net45/EntityFramework.xml",
+        "tools/EntityFramework.PowerShell.Utility.dll",
+        "tools/EntityFramework.PowerShell.dll",
+        "tools/EntityFramework.psd1",
+        "tools/EntityFramework.psm1",
+        "tools/about_EntityFramework.help.txt",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/migrate.exe"
+      ]
+    },
+    "jQuery/3.3.1": {
+      "sha512": "tYajvLpBj04iqObTE+KDX172vu9Ifgja17CSezuBAI0nJt5CgsTcQqMX356F8S6z98VZ2k5EAesPNMvwshPhZQ==",
+      "type": "package",
+      "path": "jquery/3.3.1",
+      "files": [
+        "Content/Scripts/jquery-3.3.1-vsdoc.js",
+        "Content/Scripts/jquery-3.3.1.js",
+        "Content/Scripts/jquery-3.3.1.min.js",
+        "Content/Scripts/jquery-3.3.1.min.map",
+        "Content/Scripts/jquery-3.3.1.slim.js",
+        "Content/Scripts/jquery-3.3.1.slim.min.js",
+        "Content/Scripts/jquery-3.3.1.slim.min.map",
+        "Tools/common.ps1",
+        "Tools/install.ps1",
+        "Tools/jquery-3.3.1.intellisense.js",
+        "Tools/uninstall.ps1",
+        "jquery.3.3.1.nupkg.sha512",
+        "jquery.nuspec"
+      ]
+    },
+    "ShoppingContract/1.0.0": {
+      "type": "project",
+      "path": "../ShoppingContract/ShoppingContract.csproj",
+      "msbuildProject": "../ShoppingContract/ShoppingContract.csproj"
+    },
+    "ShoppingData/1.0.0": {
+      "type": "project",
+      "path": "../ShoppingData/ShoppingData.csproj",
+      "msbuildProject": "../ShoppingData/ShoppingData.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "ShoppingContract >= 1.0.0",
+      "ShoppingData >= 1.0.0",
+      "jQuery >= 3.3.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hafiz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hafiz\\source\\repos\\ShoppingWcf\\ShoppingWcf.csproj",
+      "projectName": "ShoppingWcf",
+      "projectPath": "C:\\Users\\hafiz\\source\\repos\\ShoppingWcf\\ShoppingWcf.csproj",
+      "packagesPath": "C:\\Users\\hafiz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hafiz\\source\\repos\\ShoppingWcf\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\hafiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\Users\\hafiz\\source\\repos\\ShoppingContract\\ShoppingContract.csproj": {
+              "projectPath": "C:\\Users\\hafiz\\source\\repos\\ShoppingContract\\ShoppingContract.csproj"
+            },
+            "C:\\Users\\hafiz\\source\\repos\\ShoppingData\\ShoppingData.csproj": {
+              "projectPath": "C:\\Users\\hafiz\\source\\repos\\ShoppingData\\ShoppingData.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "jQuery": {
+            "target": "Package",
+            "version": "[3.3.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

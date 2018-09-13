@@ -1,0 +1,14 @@
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingWcf.dll.config
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingWcf.dll
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingWcf.pdb
+C:\Users\hafiz\source\repos\ShoppingWcf\obj\Debug\ShoppingWcf.csprojAssemblyReference.cache
+C:\Users\hafiz\source\repos\ShoppingWcf\obj\Debug\ShoppingWcf.csproj.CoreCompileInputs.cache
+C:\Users\hafiz\source\repos\ShoppingWcf\obj\Debug\ShoppingWcf.dll
+C:\Users\hafiz\source\repos\ShoppingWcf\obj\Debug\ShoppingWcf.pdb
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingContract.dll
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingData.dll
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\EntityFramework.dll
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingContract.pdb
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingData.pdb
+C:\Users\hafiz\source\repos\ShoppingWcf\bin\ShoppingData.dll.config
+C:\Users\hafiz\source\repos\ShoppingWcf\obj\Debug\ShoppingWcf.csproj.CopyComplete

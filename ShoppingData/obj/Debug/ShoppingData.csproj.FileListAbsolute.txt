@@ -1,0 +1,12 @@
+C:\Users\hafiz\source\repos\ShoppingData\obj\Debug\ShoppingData.csprojAssemblyReference.cache
+C:\Users\hafiz\source\repos\ShoppingData\obj\Debug\ShoppingData.csproj.CoreCompileInputs.cache
+C:\Users\hafiz\source\repos\ShoppingData\bin\Debug\ShoppingData.dll.config
+C:\Users\hafiz\source\repos\ShoppingData\bin\Debug\ShoppingData.dll
+C:\Users\hafiz\source\repos\ShoppingData\bin\Debug\ShoppingData.pdb
+C:\Users\hafiz\source\repos\ShoppingData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hafiz\source\repos\ShoppingData\bin\Debug\EntityFramework.dll
+C:\Users\hafiz\source\repos\ShoppingData\bin\Debug\ShoppingContract.dll
+C:\Users\hafiz\source\repos\ShoppingData\bin\Debug\ShoppingContract.pdb
+C:\Users\hafiz\source\repos\ShoppingData\obj\Debug\ShoppingData.csproj.CopyComplete
+C:\Users\hafiz\source\repos\ShoppingData\obj\Debug\ShoppingData.dll
+C:\Users\hafiz\source\repos\ShoppingData\obj\Debug\ShoppingData.pdb
